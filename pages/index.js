@@ -45,7 +45,7 @@ export default function Home() {
           margin-bottom:0px;
         }
         .p2 {
-          font-size: 80px;
+          font-size: 50px;
           font-weight: bold;
           margin-bottom:0px;
         }
